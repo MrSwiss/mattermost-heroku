@@ -1,6 +1,6 @@
 {
     "ServiceSettings": {
-        "SiteURL": "http://rauldipeas.herokuapp.com",
+        "SiteURL": "http://rauldipeas.herokuapp.com",        
         "ListenAddress": "0.0.0.0:${PORT}",
         "MaximumLoginAttempts": 10,
         "SegmentDeveloperKey": "",
@@ -18,7 +18,7 @@
         "EnableTeamCreation": false,
         "EnableUserCreation": true,
         "EnableOpenServer": true,        
-        "RestrictCreationToDomains": "",
+        "RestrictCreationToDomains": ""
     },
     "SqlSettings": {
         "DriverName": "postgres",
@@ -62,7 +62,7 @@
         "FeedbackEmail": "rauldipeas@mail.com",
         "FeedbackOrganization": "Raul Dipeas - http://rauldipeas.updog.co",        
         "SMTPUsername": "rauldipeas@mail.com",
-        "SMTPPassword": "Rr25680461",
+        "SMTPPassword": "",
         "SMTPServer": "smtp.mail.com",
         "SMTPPort": "587",
         "ConnectionSecurity": "STARTTLS",
