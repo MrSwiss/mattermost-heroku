@@ -62,7 +62,7 @@
         "FeedbackEmail": "rauldipeas@mail.com",
         "FeedbackOrganization": "Raul Dipeas - http://rauldipeas.updog.co",        
         "SMTPUsername": "rauldipeas@mail.com",
-        "SMTPPassword": "Rr25680461",
+        "SMTPPassword": "",
         "SMTPServer": "smtp.mail.com",
         "SMTPPort": "587",
         "ConnectionSecurity": "STARTTLS",
