@@ -17,6 +17,7 @@
         "MaxUsersPerTeam": 1000,
         "EnableTeamCreation": true,
         "EnableUserCreation": true,
+        "EnableOpenServer": true,        
         "RestrictCreationToDomains": ""
     },
     "SqlSettings": {
