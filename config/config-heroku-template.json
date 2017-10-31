@@ -69,7 +69,7 @@
         "InviteSalt": "${EMAIL_SETTINGS__INVITE_SALT}",
         "PasswordResetSalt": "${EMAIL_SETTINGS__PASSWORD_RESET_SALT}",
         "SendPushNotifications": true,
-        "PushNotificationServer": "",
+        "PushNotificationServer": "http://push-test.mattermost.com",
         "PushNotificationContents": "full",
         "ApplePushServer": "",
         "ApplePushCertPublic": "",
