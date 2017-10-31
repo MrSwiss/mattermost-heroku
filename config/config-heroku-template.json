@@ -96,8 +96,8 @@
         "UserApiEndpoint": ""
     },
     "LocalizationSettings": {
-        "DefaultServerLocale": "pt-br",
-        "DefaultClientLocale": "pt-br",
+        "DefaultServerLocale": "pt-BR",
+        "DefaultClientLocale": "pt-BR",
         "AvailableLocales": ""
     }    
 }
