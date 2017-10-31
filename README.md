@@ -1,1 +1,1 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy "title" target="_blank")
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy target="_blank")
