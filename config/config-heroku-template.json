@@ -1,7 +1,6 @@
 {
     "ServiceSettings": {
-        "SiteURL": "http://rauldipeas.herokuapp.com",
-        "ConnectionSecurity": "TLS",                
+        "SiteURL": "http://rauldipeas.herokuapp.com",        
         "ListenAddress": "0.0.0.0:${PORT}",
         "MaximumLoginAttempts": 10,
         "SegmentDeveloperKey": "",
@@ -16,7 +15,7 @@
     "TeamSettings": {
         "SiteName": "${TEAM_SETTINGS__SITE_NAME}",
         "MaxUsersPerTeam": 1000,
-        "EnableTeamCreation": false,
+        "EnableTeamCreation": true,
         "EnableUserCreation": true,
         "EnableOpenServer": true,        
         "RestrictCreationToDomains": ""
@@ -63,7 +62,7 @@
         "FeedbackEmail": "rauldipeas@mail.com",
         "FeedbackOrganization": "Raul Dipeas - http://rauldipeas.updog.co",        
         "SMTPUsername": "rauldipeas@mail.com",
-        "SMTPPassword": "Rr25680461",
+        "SMTPPassword": "",
         "SMTPServer": "smtp.mail.com",
         "SMTPPort": "587",
         "ConnectionSecurity": "STARTTLS",
