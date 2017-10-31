@@ -94,5 +94,10 @@
         "AuthEndpoint": "",
         "TokenEndpoint": "",
         "UserApiEndpoint": ""
-    }
+    },
+    "LocalizationSettings": {
+        "DefaultServerLocale": "pt-BR",
+        "DefaultClientLocale": "pt-BR",
+        "AvailableLocales": ""
+    }    
 }
