@@ -14,7 +14,7 @@
     },
     "TeamSettings": {
         "SiteName": "${TEAM_SETTINGS__SITE_NAME}",
-        "MaxUsersPerTeam": 50,
+        "MaxUsersPerTeam": 1000,
         "EnableTeamCreation": true,
         "EnableUserCreation": true,
         "RestrictCreationToDomains": ""
