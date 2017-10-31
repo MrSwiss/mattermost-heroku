@@ -1,7 +1,7 @@
 {
     "ServiceSettings": {
         "SiteURL": "http://rauldipeas.herokuapp.com",
-        "ConnectionSecurity": TLS,
+        "ConnectionSecurity": "TLS",
         "UseLetsEncrypt": true,       
         "ListenAddress": "0.0.0.0:${PORT}",
         "MaximumLoginAttempts": 10,
