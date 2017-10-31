@@ -1,6 +1,7 @@
 {
     "ServiceSettings": {
-        "SiteURL": "http://rauldipeas.herokuapp.com",        
+        "SiteURL": "http://rauldipeas.herokuapp.com",
+        "ConnectionSecurity": "TLS",                
         "ListenAddress": "0.0.0.0:${PORT}",
         "MaximumLoginAttempts": 10,
         "SegmentDeveloperKey": "",
