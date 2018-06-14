@@ -10,7 +10,8 @@
         "EnablePostUsernameOverride": false,
         "EnablePostIconOverride": false,
         "EnableTesting": false,
-        "EnableSecurityFixAlert": true
+        "EnableSecurityFixAlert": true,
+        "EnableLinkPreviews": true        
     },
     "TeamSettings": {
         "SiteName": "${TEAM_SETTINGS__SITE_NAME}",
