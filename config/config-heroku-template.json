@@ -60,7 +60,7 @@
         "RequireEmailVerification": true,
         "FeedbackName": "Raul Dipeas - Mattermost",
         "FeedbackEmail": "rauldipeas@mail.com",
-        "FeedbackOrganization": "Raul Dipeas - http://rauldipeas.updog.co",        
+        "FeedbackOrganization": "Raul Dipeas - http://rauldipeas.gitlab.io",        
         "SMTPUsername": "rauldipeas@mail.com",
         "SMTPPassword": "",
         "SMTPServer": "smtp.mail.com",
