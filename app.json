@@ -9,7 +9,7 @@
     "MATTERMOST_DOWNLOAD_URI": {
         "description": "copy-paste the download link to the latest COMPILED version from http://www.mattermost.org/download/ into here",
         "required": true,
-        "value": "https://releases.mattermost.com/4.3.1/mattermost-4.3.1-linux-amd64.tar.gz"
+        "value": "https://releases.mattermost.com/4.10.1/mattermost-team-4.10.1-linux-amd64.tar.gz"
     },
     "TEAM_SETTINGS__SITE_NAME": "Mattermost",
     "SQL_SETTINGS__AT_REST_ENCRYPT_KEY": {
