@@ -1,6 +1,6 @@
 {
     "ServiceSettings": {
-        "SiteURL": "http://rauldipeas.herokuapp.com",        
+        "SiteURL": "http://localhost:8080",
         "ListenAddress": "0.0.0.0:${PORT}",
         "MaximumLoginAttempts": 10,
         "SegmentDeveloperKey": "",
@@ -59,10 +59,10 @@
         "EnableSignUpWithEmail": true,
         "SendEmailNotifications": true,
         "RequireEmailVerification": true,
-        "FeedbackName": "RaDiX - Mattermost",
-        "FeedbackEmail": "rauldipeas@mail.com",
-        "FeedbackOrganization": "RaDiX - http://rauldipeas.gitlab.io/radix",
-        "SMTPUsername": "rauldipeas@mail.com",
+        "FeedbackName": "",
+        "FeedbackEmail": "",
+        "FeedbackOrganization": "",
+        "SMTPUsername": "",
         "SMTPPassword": "",
         "SMTPServer": "smtp.mail.com",
         "SMTPPort": "587",
@@ -97,8 +97,8 @@
         "UserApiEndpoint": ""
     },
     "LocalizationSettings": {
-        "DefaultServerLocale": "pt-BR",
-        "DefaultClientLocale": "pt-BR",
+        "DefaultServerLocale": "en",
+        "DefaultClientLocale": "en",
         "AvailableLocales": ""
     }    
 }
